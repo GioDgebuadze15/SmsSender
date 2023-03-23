@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmsReceiver.App", "SmsReceiver.App\SmsReceiver.App.csproj", "{4545CED9-EEE4-426A-8358-C6657F2B59F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmsReceiver.Models", "SmsReceiver.Models\SmsReceiver.Models.csproj", "{16E8E5FC-A985-4652-9082-183574691B33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmsReceiver.Data", "SmsReceiver.Data\SmsReceiver.Data.csproj", "{CAD7D6C1-5773-43CD-AF4C-92B2E3C1D097}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4545CED9-EEE4-426A-8358-C6657F2B59F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4545CED9-EEE4-426A-8358-C6657F2B59F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4545CED9-EEE4-426A-8358-C6657F2B59F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4545CED9-EEE4-426A-8358-C6657F2B59F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16E8E5FC-A985-4652-9082-183574691B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E8E5FC-A985-4652-9082-183574691B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E8E5FC-A985-4652-9082-183574691B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E8E5FC-A985-4652-9082-183574691B33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD7D6C1-5773-43CD-AF4C-92B2E3C1D097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD7D6C1-5773-43CD-AF4C-92B2E3C1D097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD7D6C1-5773-43CD-AF4C-92B2E3C1D097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD7D6C1-5773-43CD-AF4C-92B2E3C1D097}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
